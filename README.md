@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-[Video Walkthrough](https://submissions.us-east-1.linodeobjects.com/ios101/OHVAWMKS.gif) .
+[Video Walkthrough](trivia_video_walkthrough.gif)
 
 ## Notes
 
